@@ -1,7 +1,7 @@
 {
   "name": "voting-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorail based on http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html",
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js \"test/**/*@(.js|.jsx)\"",
